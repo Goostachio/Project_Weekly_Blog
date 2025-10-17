@@ -1,0 +1,5 @@
+This is the first week of the Project module, we were introduced with tinyML and given a few ideas for the upcoming project.
+activity for this week:
+- We formed a team of 4 people and dicussed which project is suitable for us, whether we should go for computer vision or training using other sensor data
+- I studied the first 2 weeks worth of material about tiny machine learning in the cs249r course of fall 2022. I understand the usage of keyword spotting in tinyML and its prevelance. I checked out Tensorflow Lite documentation.
+- I read some of the paper recommended, notibly keyword spotting on microcontroller and Embedded Machine Learning on TinyML Systems.
